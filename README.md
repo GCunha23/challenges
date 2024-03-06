@@ -1,1 +1,1 @@
-# This is a repository for coding challenges and studies made while studying at Code For All.
+# This is a repository for simple coding challenges made while studying at Code For All.
